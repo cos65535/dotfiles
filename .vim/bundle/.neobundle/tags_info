@@ -1,0 +1,7 @@
+ack.vim
+neobundle.vim
+neocomplete.vim
+nerdtree
+syntastic
+tcomment_vim
+vim-easymotion
